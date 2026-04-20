@@ -49,7 +49,3 @@ The plugin includes a fallback mechanism: if a value is missing for a specific m
 * **Language**: TypeScript
 * **Target**: ECMAScript 2017+
 * **Data Format**: W3C Design Token Community Group (DTCG) inspired JSON
-
----
-
-*This project is part of the GE-DESIGN ecosystem for Design System automation.*
